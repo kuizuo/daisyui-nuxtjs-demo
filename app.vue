@@ -5,15 +5,7 @@ onMounted(() => {
   themeChange(false);
 });
 
-const arr = [
-  'winter',
-  'night',
-  'cupcake',
-  'synthwave',
-  'forest',
-  'aqua',
-  'dracula',
-];
+const arr = ['winter', 'night', 'cupcake', 'synthwave', 'forest', 'aqua'];
 </script>
 
 <template>

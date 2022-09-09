@@ -3,14 +3,6 @@ module.exports = {
   daisyui: {
     theme: 'winter',
     darkTheme: 'night',
-    themes: [
-      'winter',
-      'night',
-      'cupcake',
-      'synthwave',
-      'forest',
-      'aqua',
-      'dracula',
-    ],
+    themes: ['winter', 'night', 'cupcake', 'synthwave', 'forest', 'aqua'],
   },
 };
